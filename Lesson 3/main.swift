@@ -1,11 +1,5 @@
-//
-//  main.swift
-//  Lesson 3
-//
-//  Created by Atai Begaliev on 15/9/22.
-//
+//lesson 3
 
-import Foundation
+import Darwin
 
-print("Hello, World!")
-
+MNT_DWAIT
